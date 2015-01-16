@@ -90,6 +90,14 @@
 
 >
 
+### __Câu 13:__ [tar]
+
+>
+
+### __Câu 14:__ []
+
+>
+
 ## Mức 4: Thực hành và câu hỏi nâng cao
 
 ### __Câu 16:__ Viết một chương trình tính tổng 2 số nguyên nhập vào từ bàn phím. (Viết bằng C/C++)
