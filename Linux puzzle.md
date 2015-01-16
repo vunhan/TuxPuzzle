@@ -11,10 +11,13 @@
 
 ### __Câu 2:__: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Dùng lệnh nào để hiển thị cấu trúc cây thư mục trong Ubuntu:
 + ls
 + tree
 + cd
 + rm -rf /
+=======
+>>>>>>> parent of fd068b7... Bổ sung câu 2
 =======
 >>>>>>> parent of fd068b7... Bổ sung câu 2
