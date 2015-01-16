@@ -9,9 +9,9 @@
 + Long Term Service
 + Long Term Support (v)
 
-### __Câu 2:__: Có bao nhiêu cách cài 1 ứng dụng trên Ubuntu?
-
-+ Chỉ có duy nhất 1 cách.
-+ Chỉ có duy nhất 2 cách.
-+ Có tối đa 3 cách.
-+ Có nhiều hơn 3 cách.
+### __Câu 2:__: 
+Dùng lệnh nào để hiển thị cấu trúc cây thư mục trong Ubuntu:
++ ls
++ tree
++ cd
++ rm -rf /
