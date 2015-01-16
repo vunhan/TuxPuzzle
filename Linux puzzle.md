@@ -25,3 +25,5 @@
 + $ls
 + #rm -rf /
 + Tất cả đều sai.
+
+### __Câu 5:__ Test something!
