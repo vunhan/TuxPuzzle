@@ -23,8 +23,12 @@
 ### __Câu 4:__ Câu lệnh cho phép liệt kê thư mục trong Linux?
 + $cd ../
 + $ls
-+ #rm -rf /
++ \#rm -rf /
 + Tất cả đều sai.
+
+### __Câu 5:__ Bạn hãy liệt kê tên các phần mềm có logo trong hình sau (càng nhiều càng tốt, lol)
+
+![alt text](https://2.bp.blogspot.com/__FHsWCgkJ4Q/TTiXOEe1RlI/AAAAAAAACP4/idwd_RbvteQ/s1600/open-source-software1.jpg "Logo OSS")
 
 ### __Câu 6:__ Quyền cao nhất trong Linux là của:
 + administrator
@@ -32,24 +36,24 @@
 + root
 + user
 
-### __Câu 7:__Chương trình nào của Linux dùng để biên dịch 1 chương trình đưọc viết bằng ngôn ngữ C
+### __Câu 7:__ Chương trình nào của Linux dùng để biên dịch 1 chương trình đưọc viết bằng ngôn ngữ C
 + Monospace
 + Sublime Text 2
 + Gcc
 + Python
 
-### __Câu 8:__Có thể chơi game trên Linux/Ubuntu không?
+### __Câu 8:__ Có thể chơi game trên Linux/Ubuntu không?
 + Có
 + Không
 
-### __Câu 9:__Ai được xem như là cha đẻ của Linux
+### __Câu 9:__ Ai được xem như là cha đẻ của Linux
 + Bill Gate
 + Kenny Sang
 + Linus Benedict Torvalds
 + Đào Duy Thuận
 
 ### __Câu 10:__ Lệnh nào dùng để update hệ thống trong Ubuntu (có thể có nhiều đáp án)
-+ # apt-get update
++ \# apt-get update
 + $ apt-get update
 + update
 + $ sudo apt-get update
