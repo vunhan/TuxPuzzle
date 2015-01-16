@@ -36,7 +36,7 @@
 + root
 + user
 
-### __Câu 7:__ Chương trình nào của Linux dùng để biên dịch 1 chương trình đưọc viết bằng ngôn ngữ C
+### __Câu 7:__ Chương trình nào của Linux dùng để biên dịch 1 chương trình được viết bằng ngôn ngữ C
 + Monospace
 + Sublime Text 2
 + Gcc
