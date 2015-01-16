@@ -36,18 +36,18 @@
 + root
 + user
 
-### __Câu 7:__ Chương trình nào của Linux dùng để biên dịch 1 chương trình được viết bằng ngôn ngữ C
+### __Câu 7:__ Chương trình nào của Linux dùng để biên dịch một chương trình được viết bằng ngôn ngữ C
 + Monospace
 + Sublime Text 2
 + Gcc
 + Python
 
-### __Câu 8:__ Có thể chơi game trên Linux/Ubuntu không?
+### __Câu 8:__ Có thể chơi game trên Ubuntu không?
 + Có
 + Không
 
 ### __Câu 9:__ Ai được xem như là cha đẻ của Linux
-+ Bill Gate
++ Bill Gates
 + Kenny Sang
 + Linus Benedict Torvalds
 + Đào Duy Thuận
