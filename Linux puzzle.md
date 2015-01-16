@@ -10,8 +10,11 @@
 + Long Term Support (v)
 
 ### __Câu 2:__: 
+<<<<<<< HEAD
 Dùng lệnh nào để hiển thị cấu trúc cây thư mục trong Ubuntu:
 + ls
 + tree
 + cd
 + rm -rf /
+=======
+>>>>>>> parent of fd068b7... Bổ sung câu 2
