@@ -91,15 +91,21 @@
 
 > ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 
-### __Câu 12:__ [alias]
+### __Câu 12:__ Các định dạng được hỗ trợ để cài đặt Ubuntu?
 
->
++ ext3, ext4
++ fat16
++ fat32
++ ntfs
 
-### __Câu 13:__ [tar]
+### __Câu 13:__ Lệnh nào sau đây dùng để giải nén một file foo.tar.gz
 
->
++ tar -zvjf foo.tar.gz
++ tar -zcvf foo.tar.gz
++ tar -zxvf foo.tar.gz
++ tar -zcvf foo.tar.gz
 
-### __Câu 14:__ []
+### __Câu 14:__ 
 
 >
 
