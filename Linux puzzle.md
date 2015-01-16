@@ -63,15 +63,20 @@
 + Gcc
 + Python
 
-### __Câu 8:__ Có thể chơi game trên Ubuntu không?
-+ Có
-+ Không
+### __Câu 8:__ Câu lệnh nào giúp rename nhanh file/directory trong Linux theo kiểu:
+
+> <command> tenfilecu tenfilemoi
+
++ mv
++ cp
++ rename
++ chname
 
 ### __Câu 9:__ Ai được xem như là cha đẻ của Linux
-+ Bill Gates
++ Aaron Swartz
 + Kenny Sang
 + Linus Benedict Torvalds
-+ Đào Duy Thuận
++ Richard Matthew Stallman
 
 ### __Câu 10:__ Lệnh nào dùng để update hệ thống trong Ubuntu (có thể có nhiều đáp án)
 + \# apt-get update
