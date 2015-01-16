@@ -121,6 +121,6 @@
 
 >
 
-### __Câu 20:__ Viết compiler của ngôn ngữ HQ9+
+### __Câu 20:__ Viết đoạn chương trình hiện thực hóa ngôn ngữ HQ9+ (ngôn ngữ tùy chọn)
 
 >
