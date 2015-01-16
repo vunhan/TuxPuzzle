@@ -26,29 +26,29 @@
 + #rm -rf /
 + Tất cả đều sai.
 
-###___Câu 6:___ Quyền cao nhất trong Linux là của:
+###__Câu 6:__ Quyền cao nhất trong Linux là của:
 + administrator
 + hacker
 + root
 + user
 
-###___Câu 7:___Chương trình nào của Linux dùng để biên dịch 1 chương trình đưọc viết bằng ngôn ngữ C
+###__Câu 7:__Chương trình nào của Linux dùng để biên dịch 1 chương trình đưọc viết bằng ngôn ngữ C
 + Monospace
 + Sublime Text 2
 + Gcc
 + Python
 
-###___Câu 8:___Có thể chơi game trên Linux/Ubuntu không?
+###__Câu 8:__Có thể chơi game trên Linux/Ubuntu không?
 + Có
 + Không
 
-###___Câu 9:___Ai được xem như là cha đẻ của Linux
+###__Câu 9:__Ai được xem như là cha đẻ của Linux
 +Bill Gate
 + Kenny Sang
 +Linus Benedict Torvalds
 + Đào Duy Thuận
 
-###___Câu 10___:lệnh nào dùng để update hệ thống trong Ubuntu
+###__Câu 10__:lệnh nào dùng để update hệ thống trong Ubuntu
 + sudo apt-get update
 +apt-get update
 + update
