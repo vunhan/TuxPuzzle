@@ -65,4 +65,27 @@
 
 > ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 
-### __Câu 12:__ 
+### __Câu 12:__ [alias]
+
+>
+
+## Mức 4: Thực hành và câu hỏi nâng cao
+
+### __Câu 16:__ Viết một chương trình tính tổng 2 số nguyên nhập vào từ bàn phím. (Viết bằng C/C++)
+
+>
+
+### __Câu 17:__ [IDE thiếu gcc]
+
+>
+### __Câu 18:__ [Biến $PATH]
+
+>
+
+### __Câu 19:__ [Biến môi trường]
+
+>
+
+### __Câu 20:__ Viết compiler của ngôn ngữ HQ9+
+
+>
