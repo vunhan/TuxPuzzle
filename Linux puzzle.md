@@ -19,3 +19,9 @@
 + Linux Compiler
 + GCC (v)
 + Visual Studio
+
+### __Câu 4:__ Câu lệnh cho phép liệt kê thư mục trong Linux?
++ $cd ../
++ $ls
++ #rm -rf /
++ Tất cả đều sai.
