@@ -30,6 +30,27 @@
 
 ![alt text](https://2.bp.blogspot.com/__FHsWCgkJ4Q/TTiXOEe1RlI/AAAAAAAACP4/idwd_RbvteQ/s1600/open-source-software1.jpg "Logo OSS")
 
++ Python
++ OpenBSD
++ Thunderbird
++ Inkscape
++ Blender
++ OpenSUSE
++ Pidgin
++ Perl
++ Ruby
++ Scribus
++ Reddit
++ Linux
++ Firefox
++ PHP
++ Gliffy
++ FreeBSD
++ Apache
++ GIMP
++ FileZilla
++ Redhat Linux
+
 ### __Câu 6:__ Quyền cao nhất trong Linux là của:
 + administrator
 + hacker
@@ -78,6 +99,7 @@
 ### __Câu 17:__ [IDE thiếu gcc]
 
 >
+
 ### __Câu 18:__ [Biến $PATH]
 
 >
