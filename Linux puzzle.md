@@ -65,7 +65,7 @@
 
 ### __Câu 8:__ Câu lệnh nào giúp rename nhanh file/directory trong Linux theo kiểu:
 
-> <command> tenfilecu tenfilemoi
+> [command] tenfilecu tenfilemoi
 
 + mv
 + cp
