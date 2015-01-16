@@ -26,9 +26,6 @@
 + #rm -rf /
 + Tất cả đều sai.
 
-### __Câu 5:__ Test something!
-+ Thử cho con gà Thuận xem nè.
-+ Try again.
 ###___Câu 6:___ Quyền cao nhất trong Linux là của:
 + administrator
 + hacker
