@@ -1,6 +1,6 @@
 # Câu hỏi ôn tập khóa train Linux
 
-## Dạng 1: trắc nghiệm nhanh (puzzle)
+## Mức 1: Ôn tập (puzzle)
 
 ### __Câu 1:__ Ubuntu LTS, "LTS" mang ý nghĩa gì?
 + Logistics & Technology Services, Inc (LTS)
@@ -8,7 +8,7 @@
 + Long Term Service
 + Long Term Support (v)
 
-### __Câu 2:__: Có bao nhiêu cách cài đặt một ứng dụng lên Ubuntu
+### __Câu 2:__ Có bao nhiêu cách cài đặt một ứng dụng lên Ubuntu
 + Chỉ có duy nhất 1 cách.
 + Chỉ có duy nhất 2 cách.
 + Có tối đa 3 cách.
@@ -57,3 +57,8 @@
 + $ apt-get update
 + update
 + $ sudo apt-get update
+
+----------
+## Mức 2: Tìm kiếm thông tin
+
+### __Câu 11:__ 
