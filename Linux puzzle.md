@@ -26,7 +26,7 @@
 + \# rm -rf /
 + Tất cả đều sai.
 
-### __Câu 5:__ Bạn hãy liệt kê tên các phần mềm có logo trong hình sau (càng nhiều càng tốt, lol)
+### __Câu 5:__ Bạn hãy liệt kê tên các phần mềm có logo trong hình sau (càng nhiều càng tốt)
 
 ![alt text](https://2.bp.blogspot.com/__FHsWCgkJ4Q/TTiXOEe1RlI/AAAAAAAACP4/idwd_RbvteQ/s1600/open-source-software1.jpg "Logo OSS")
 
@@ -84,7 +84,7 @@
 + update
 + $ sudo apt-get update
 
-----------
+
 ## Mức 2: Tìm kiếm thông tin
 
 ### __Câu 11:__ Đoạn code sau đây mang ý nghĩa in chuỗi "Hello World" ra terminal, bạn hãy cho biết nó được viết bằng ngôn ngữ nào?
@@ -129,4 +129,4 @@
 
 ### __Câu 20:__ Viết đoạn chương trình hiện thực hóa ngôn ngữ HQ9+ (ngôn ngữ tùy chọn)
 
->
+  + [ ] Chuan bi code dap an
