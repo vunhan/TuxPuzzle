@@ -84,7 +84,7 @@
 + update
 + $ sudo apt-get update
 
-----------
+
 ## Mức 2: Tìm kiếm thông tin
 
 ### __Câu 11:__ Đoạn code sau đây mang ý nghĩa in chuỗi "Hello World" ra terminal, bạn hãy cho biết nó được viết bằng ngôn ngữ nào?
