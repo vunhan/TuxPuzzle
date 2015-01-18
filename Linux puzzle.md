@@ -21,9 +21,9 @@
 + Visual Studio
 
 ### __Câu 4:__ Câu lệnh cho phép liệt kê thư mục trong Linux?
-+ $cd ../
-+ $ls
-+ \#rm -rf /
++ $ cd ../
++ $ ls
++ \# rm -rf /
 + Tất cả đều sai.
 
 ### __Câu 5:__ Bạn hãy liệt kê tên các phần mềm có logo trong hình sau (càng nhiều càng tốt, lol)
@@ -105,7 +105,7 @@
 + tar -zxvf foo.tar.gz
 + tar -zcvf foo.tar.gz
 
-### __Câu 14:__ 
+### __Câu 14:__
 
 >
 
