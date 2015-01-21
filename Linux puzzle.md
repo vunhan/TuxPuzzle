@@ -123,7 +123,7 @@ http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html
 + In ra _biến môi trường_ **$PATH**
 + Tạo thư mục ~/script
 + Tạo 1 file CTTT.sh với nội dung lấy từ http://pastebin.com/zjmpdsj9
-+ Set quyền -rwxr-xr-x cho file CTTT.sh - Yêu cầu sử dụng hình thức set bằng số (VD: <command> 777 <file>)
++ Set quyền -rwxr-xr-x cho file CTTT.sh - Yêu cầu sử dụng hình thức set bằng số (VD: command 777 file)
 + Di chuyển vào thư mục ~/script và thực thi file CTTT.sh
 + Edit biến $PATH sao cho có thể thực thi file CTTT.sh từ ~/Desktop.
 + In ra _biến môi trường_ **$PATH**
