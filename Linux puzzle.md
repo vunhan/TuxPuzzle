@@ -128,11 +128,11 @@ http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html
 + Edit biến $PATH sao cho có thể thực thi file CTTT.sh từ ~/Desktop.
 + In ra _biến môi trường_ **$PATH**
 
-### __Câu 18:__ [Biến $PATH]
+### __Câu 18:__ 
 
 >
 
-### __Câu 19:__ [Biến môi trường]
+### __Câu 19:__ 
 
 >
 
