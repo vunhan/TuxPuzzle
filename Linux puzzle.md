@@ -108,7 +108,7 @@
 ### __Câu 14:__ Nêu hướng giải quyết thông báo lỗi sau đây ![alt text](http://a.pomf.se/lkaneg.jpg "Bug1")
  
 
-### __Câu 15:__
+### __Câu 15:__ "Mình cài song song win 8.1 và ubuntu 14.04. Nhưng mỗi lần bật win là thời gian lại sai, mặc dù đã chỉnh đúng múi giờ... Lỗi xảy ra từ khi mình xài ubuntu... Giờ bên ubuntu thì vẫn đúng bình thường. Có ai biết lỗi gì không?" Các bạn hãy chọn 1 link theo bạn có khả năng fix được lỗi này.
 
 ## Mức 4: Thực hành và câu hỏi nâng cao
 
