@@ -110,6 +110,8 @@
 
 ### __Câu 15:__ "Mình cài song song win 8.1 và ubuntu 14.04. Nhưng mỗi lần bật win là thời gian lại sai, mặc dù đã chỉnh đúng múi giờ... Lỗi xảy ra từ khi mình xài ubuntu... Giờ bên ubuntu thì vẫn đúng bình thường. Có ai biết lỗi gì không?" Các bạn hãy chọn 1 link theo bạn có khả năng fix được lỗi này.
 
+http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html
+
 ## Mức 4: Thực hành và câu hỏi nâng cao
 
 ### __Câu 16:__ Viết một chương trình tính tổng 2 số nguyên nhập vào từ bàn phím. (Viết bằng C/C++)
