@@ -105,9 +105,10 @@
 + tar -zxvf foo.tar.gz
 + tar -zcvf foo.tar.gz
 
-### __Câu 14:__ 
+### __Câu 14:__ Nêu hướng giải quyết thông báo lỗi sau đây ![alt text](http://a.pomf.se/lkaneg.jpg "Bug1")
+ 
 
->
+### __Câu 15:__
 
 ## Mức 4: Thực hành và câu hỏi nâng cao
 
