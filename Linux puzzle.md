@@ -140,7 +140,7 @@ https://gnu.org/licenses/gpl.html
 
 Đoạn 2, Basic Permissions.
 
-### __Câu 19:__ 
+### __Câu 19:__ Tôi cần thêm ý tưởng, tôi cần thêm yêu thương...
 
 >
 
