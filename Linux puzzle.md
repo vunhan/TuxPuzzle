@@ -118,7 +118,7 @@ http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html
 
 >
 
-### __Câu 17:__ Thực hiện lần lượt các công việc sau và submit các commend cần thiết (thực hành trên terminal)
+### __Câu 17:__ Thực hiện lần lượt các công việc sau và submit các command cần thiết (thực hành trên terminal)
 
 + In ra _biến môi trường_ **$PATH**
 + Tạo thư mục ~/script
