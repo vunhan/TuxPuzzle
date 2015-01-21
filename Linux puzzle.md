@@ -114,13 +114,18 @@ http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html
 
 ## Mức 4: Thực hành và câu hỏi nâng cao
 
-### __Câu 16:__ Viết một chương trình tính tổng 2 số nguyên nhập vào từ bàn phím. (Viết bằng C/C++)
+### __Câu 16:__ Viết một chương trình tính tổng 2 số nguyên nhập vào từ bàn phím. (Viết bằng C/C++ - Sử dụng GCC/G++ để compile.)
 
 >
 
-### __Câu 17:__ [IDE thiếu gcc]
+### __Câu 17:__ Thực hiện lần lượt các công việc sau và submit các commend cần thiết (thực hành trên terminal)
 
->
++ In ra _biến môi trường_ **$PATH**
++ Tạo thư mục ~/script
++ Tạo 1 file CTTT.sh với nội dung lấy từ http://pastebin.com/zjmpdsj9
++ Set quyền -rwxr-xr-x cho file CTTT.sh - Yêu cầu sử dụng hình thức set bằng số (VD: <command> 777 <file>)
++ Di chuyển vào thư mục ~/script và thực thi file CTTT.sh
++ Edit biến $PATH sao cho có thể thực thi file CTTT.sh từ ~/Desktop.
 
 ### __Câu 18:__ [Biến $PATH]
 
